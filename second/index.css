@@ -1,0 +1,61 @@
+.box-one{
+  height: 150px;
+  width: 50px;
+  background: purple;
+  margin: 60px 10px; 
+  float: left;
+}
+.box-two{
+    height: 200px;
+    width: 400px;
+    background: green;
+    margin: 10px 44px;
+    float: left;
+  }
+  .circle{
+    height: 200px;
+    width: 200px;
+    background: blue;
+    margin: 10px 568px;
+    float: top; 
+    border-radius: 50%;
+  }
+  .border-one{
+    height: 224px;
+    width: 96.9%;
+    background: white;
+    margin: 25px 17px 20px;
+    border-style: solid;
+    border-width: 5px;
+  }
+  .box-three{
+    height: 200px;
+    width: 1280px;
+    margin: 50px;
+    background: tan;
+    box-shadow: 10px 10px 10px
+  }
+  .box-four{
+    height: 250px;
+    width: 48.8%;
+    background: white;
+    margin: 25px 365px 20px;
+    border-style: solid;
+    border-width: .1px; 
+    box-shadow: 2px 2px 2px;
+  }
+  .border-two{
+    height: 300px;
+    width: 96.9%;
+    background: white;
+    margin: 25px 17px 20px;
+    border-style: dotted;
+    border-width: 5px;
+  }
+  .box-four h1{
+    text-align: center;
+    width: 100%;
+    color: blue;
+    margin: 100px 0px;
+    letter-spacing: 10px;
+  }
